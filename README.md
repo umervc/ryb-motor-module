@@ -1,5 +1,7 @@
 # Rock Your Baby (RYB) — Motor/Output Module (M5Stack)
 
+![Baby cradle](images/babycradle.png)
+
 This repository contains my work for the **Rock Your Baby (RYB)** first-year EE project at TU/e: specifically the **Motor/Output Module** responsible for generating two PWM control signals that represent the cradle’s **rocking frequency** and **rocking amplitude**.
 
 ## Project context (short)
@@ -42,4 +44,4 @@ The full RYB system is a bio-feedback controller for a rocking cradle. It aims t
 - Integration with the full system (I2C communication, decision-making module, sensor modules, and power switching) is outside the scope of this code file, but was part of the complete project.
 
 ## License
-This code is provided for educational and portfolio purposes. If you want to reuse it, please attribute the original author.
+This project is published for educational and demonstration purposes as part of an academic course.
