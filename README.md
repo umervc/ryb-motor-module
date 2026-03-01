@@ -25,7 +25,7 @@ The full RYB system is a bio-feedback controller for a rocking cradle. It aims t
   - GPIO **15** → PWM channel 2 (amplitude level signal)
 
 ## How to run
-1. Open the `.ino` file in the **Arduino IDE**.
+1. Open the `output_module.ino` file in the **Arduino IDE**.
 2. Install/select the **M5Stack board support** and required library:
    - `M5Stack`
 3. Flash to your M5Stack.
